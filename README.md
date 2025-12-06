@@ -25,11 +25,11 @@ and exploring how automation can improve real-world systems.
 
 ### 🔹 Machine Learning / Data Science
 <p align="center">
-  <img title="TensorFlow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60" />
-  <img title="PyTorch" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="60" />
-  <img title="OpenCV" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="60" />
-  <img title="NumPy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" />
-  <img title="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" />
+  <img title="TensorFlow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-plain.svg" height="60" />
+  <img title="PyTorch" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-plain.svg" height="60" />
+  <img title="OpenCV" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-plain.svg" height="60" />
+  <img title="NumPy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-plain.svg" height="60" />
+  <img title="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-plain.svg" height="60" />
 </p>
 
 
