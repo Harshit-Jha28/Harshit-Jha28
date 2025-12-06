@@ -1,10 +1,15 @@
-### ✒️ Who I Am?
-<p align="center">
-
 <h1 align="center">Hi, I'm Harshit Jha 👋</h1>
 
 <p align="center">
   <strong>Computer Science Graduate | Machine Learning & Data Science Enthusiast</strong>
+</p>
+
+---
+
+### ✒️ Who I Am?
+<p align="center">
+A passionate Computer Science Graduate exploring the world of Machine Learning, Data Science, and AI.  
+I enjoy building intelligent systems, analyzing data, and turning ideas into real-world solutions.
 </p>
 
 ---
@@ -14,7 +19,6 @@
 I am a **Computer Science Graduate** with a strong passion for **Machine Learning** and **Data Science**.  
 I love exploring models, analyzing data, and building practical solutions that leverage AI to drive innovation.  
 Always open to learning, experimenting, and collaborating on impactful projects.
-
 ---
 
 ## 🛠️ Skills & Technologies
