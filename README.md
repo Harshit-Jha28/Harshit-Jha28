@@ -5,7 +5,7 @@
 
 <!-- Subtle Glassmorphism Card (Balanced) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/harshitjha1/harshitjha1/main/assets/glass-card.png" width="600" style="border-radius:18px;">
+  <img src="https://raw.githubusercontent.com/harshitjha28/harshitjha28/main/assets/glass-card.png" width="600" style="border-radius:18px;">
 </p>
 
 ---
