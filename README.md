@@ -12,31 +12,42 @@ I love transforming data into insights, building predictive models,
 and exploring how automation can improve real-world systems.
 
 ---
+<h2 align="center">🛠️ Skills</h2>
 
-## ⚙️ **Skills & Technologies**
-
-### 🔹 Programming
 <p align="center">
-  <img title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" />
-  <img title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" />
-  <img title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-
-### 🔹 Machine Learning / Data Science
 <p align="center">
-  <img title="TensorFlow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60" />
-  <img title="PyTorch" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="60" />
-  <img title="OpenCV" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="60" />
-  <img title="NumPy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" />
-  <img title="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" />
+  <img title="TensorFlow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-plain.svg" height="60"/>
+  <img title="PyTorch" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-plain.svg" height="60"/>
+  <img title="OpenCV" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-plain.svg" height="60"/>
+  <img title="NumPy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-plain.svg" height="60"/>
+  <img title="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-plain.svg" height="60"/>
 </p>
 
-### 🔹 Tools & Platforms
+---
+
 <p align="center">
-  <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" />
-  <img title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="60" />
-  <img title="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" />
+  <img src="https://img.shields.io/badge/Web%20Development-000000?style=for-the-badge&logo=html5&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="60"/>
+  <img title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="60"/>
+  <img title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="60"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Tools-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="60"/>
+  <img title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-plain.svg" height="60"/>
+  <img title="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain.svg" height="60"/>
 </p>
 
 
