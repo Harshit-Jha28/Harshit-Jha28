@@ -1,6 +1,6 @@
 <!-- Centered Animated Heading (Professional + Minimal) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2800&pause=900&color=00D1FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Harshit+Jha+%F0%9F%91%8B;Machine+Learning+%7C+Data+Science+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2800&pause=900&color=00D1FF&center=true&vCenter=true&width=900&lines=Who+I+Am;Hi%2C+I%27m+Harshit+Jha;Machine+Learning+%7C+Data+Science+Enthusiast" />
 </p>
 
 <!-- Subtle Glassmorphism Card (Balanced) -->
