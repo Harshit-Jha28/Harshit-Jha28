@@ -21,9 +21,14 @@ and exploring how automation can improve real-world systems.
 </p>
 
 ### 🔹 Machine Learning / Data Science
-<p align="left">
- <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,numpy,pandas" height="60" />
+<p align="center">
+  <img title="TensorFlow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60" />
+  <img title="PyTorch" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="60" />
+  <img title="OpenCV" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="60" />
+  <img title="NumPy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" />
+  <img title="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" />
 </p>
+
 
 ### 🔹 Tools & Platforms
 <p align="left">
