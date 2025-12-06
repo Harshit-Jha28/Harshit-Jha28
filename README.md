@@ -16,9 +16,12 @@ and exploring how automation can improve real-world systems.
 ## ⚙️ **Skills & Technologies**
 
 ### 🔹 Programming
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css&theme=light" height="60" />
+<p align="center">
+  <img title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" />
+  <img title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" />
+  <img title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" />
 </p>
+
 
 ### 🔹 Machine Learning / Data Science
 <p align="center">
