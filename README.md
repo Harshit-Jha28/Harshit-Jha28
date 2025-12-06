@@ -54,16 +54,32 @@
     </p>
 
     <h3 style="color:#aee1ff;">🤖 ML & DS Libraries</h3>
-    <p>
-      <img src="https://img.icons8.com/color/48/numpy.png" width="45"/>
-      <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="45"/>
-      <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="45"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="45"/>
-      <img src="https://keras.io/img/logo.png" width="45"/>
-      <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="45"/>
-      <img src="https://matplotlib.org/_static/images/logo2.svg" width="45"/>
-      <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="45"/>
-    </p>
+<p>
+  <!-- NumPy -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48"/>
+
+  <!-- Pandas -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/>
+
+  <!-- Scikit-learn -->
+  <img src="https://vectorlogo.zone/logos/scikit_learn/scikit_learn-icon.svg" width="48"/>
+
+  <!-- TensorFlow -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48"/>
+
+  <!-- Keras -->
+  <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/keras.svg" width="48"/>
+
+  <!-- PyTorch -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48"/>
+
+  <!-- Matplotlib -->
+  <img src="https://matplotlib.org/stable/_static/logo2.svg" width="48"/>
+
+  <!-- Seaborn -->
+  <img src="https://seaborn.pydata.org/_static/logo-mark-lightbg.svg" width="48"/>
+</p>
+
 
   </div>
 </div>
