@@ -1,85 +1,144 @@
+<!-- ✒️ Who I Am -->
 <h3 align="center">✒️ Who I Am?</h3>
 
-<h1 align="center">Hi, I'm Harshit Jha 👋</h1>
+<h1 align="center">Hi, I'm <span style="color:#4bcffa;">Harshit Jha</span> 👋</h1>
 
 <p align="center">
   <strong>Computer Science Graduate | Machine Learning & Data Science Enthusiast</strong>
 </p>
 
+<br>
 
-## 🌟 About Me
+<!-- 🧊 Glass Container -->
+<div align="center">
+  <div style="
+    width: 80%;
+    padding: 25px;
+    border-radius: 20px;
+    background: rgba(255, 255, 255, 0.12);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255,255,255,0.2);
+    box-shadow: 0px 8px 25px rgba(0,0,0,0.2);
+  ">
+    <h2 style="margin-top:0; color:#d2e7ff;">🌟 About Me</h2>
+    <p style="color:#e3f2fd;">
+      I am a Computer Science Graduate with a deep passion for Machine Learning,  
+      Artificial Intelligence, and Data Science.  
+      I love building intelligent systems, experimenting with models,  
+      and converting data into meaningful insights.
+    </p>
+  </div>
+</div>
 
-I am a **Computer Science Graduate** with a strong passion for **Machine Learning** and **Data Science**.  
-I love exploring models, analyzing data, and building practical solutions that leverage AI to drive innovation.  
-Always open to learning, experimenting, and collaborating on impactful projects.
----
+<br>
 
-## 🛠️ Skills & Technologies
+<!-- Skills Card -->
+<div align="center">
+  <div style="
+    width: 80%;
+    padding: 25px;
+    border-radius: 20px;
+    background: rgba(255,255,255,0.12);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255,255,255,0.2);
+    box-shadow: 0px 8px 25px rgba(0,0,0,0.2);
+  ">
+    <h2 style="margin-top:0; color:#d2e7ff;">🛠️ Skills & Technologies</h2>
 
-### 💻 Programming Languages
-- Python  
-- HTML  
-- CSS  
-- JavaScript  
+   <h3 style="color:#aee1ff;">🔥 Programming Languages</h3>
+    <p>
+      <img src="https://img.icons8.com/color/48/python.png" width="45"/>
+      <img src="https://img.icons8.com/color/48/html-5.png" width="45"/>
+      <img src="https://img.icons8.com/color/48/css3.png" width="45"/>
+      <img src="https://img.icons8.com/color/48/javascript.png" width="45"/>
+    </p>
 
-### 📚 Python Libraries (ML & DS)
-- NumPy  
-- pandas  
-- scikit-learn  
-- TensorFlow  
-- Keras  
-- PyTorch  
-- Matplotlib  
-- Seaborn  
+    <h3 style="color:#aee1ff;">🤖 ML & DS Libraries</h3>
+    <p>
+      <img src="https://img.icons8.com/color/48/numpy.png" width="45"/>
+      <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="45"/>
+      <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="45"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="45"/>
+      <img src="https://keras.io/img/logo.png" width="45"/>
+      <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="45"/>
+      <img src="https://matplotlib.org/_static/images/logo2.svg" width="45"/>
+      <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="45"/>
+    </p>
 
----
+  </div>
+</div>
 
-## 🚀 Projects
+<br>
 
-Here are some projects that highlight my work:
+<!-- Projects Card -->
+<div align="center">
+  <div style="
+    width: 80%;
+    padding: 25px;
+    border-radius: 20px;
+    background: rgba(255,255,255,0.12);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255,255,255,0.2);
+    box-shadow: 0px 8px 25px rgba(0,0,0,0.2);
+  ">
+    <h2 style="margin-top:0; color:#d2e7ff;">🚀 Featured Projects</h2>
 
-### **1. ML Model for Predicting House Prices**
-- **Description:**  
-  A machine learning project that predicts house prices using linear regression and advanced feature engineering techniques.
-- **Technologies:** Python, pandas, scikit-learn, Matplotlib  
-- **GitHub Repo:** *[Add your repository link here]*
+### 🔹 ML Model for Predicting House Prices  
+**Tech Used:** Python, pandas, scikit-learn  
+A regression model predicting house prices using feature engineering.  
+🔗 Repo: *[Add Link]*
 
----
+### 🔹 Deep Learning Image Classifier  
+**Tech Used:** TensorFlow, Keras  
+CNN classifier for multi-category image recognition.  
+🔗 Repo: *[Add Link]*
 
-### **2. Deep Learning Image Classifier**
-- **Description:**  
-  A CNN-based classifier built using TensorFlow/Keras to identify images across multiple categories.
-- **Technologies:** Python, TensorFlow, NumPy, Matplotlib  
-- **GitHub Repo:** *[Add your repository link here]*
+### 🔹 Data Visualization Dashboard  
+**Tech Used:** Matplotlib, Seaborn  
+Dynamic visualizations for complex datasets.  
+🔗 Repo: *[Add Link]*
 
----
+  </div>
+</div>
 
-### **3. Data Visualization Dashboard**
-- **Description:**  
-  Created an interactive dashboard to visualize trends and patterns in large datasets.
-- **Technologies:** Python, Seaborn, Matplotlib  
-- **GitHub Repo:** *[Add your repository link here]*
+<br>
 
----
+<!-- Contact Card -->
+<div align="center">
+  <div style="
+    width: 80%;
+    padding: 25px;
+    border-radius: 20px;
+    background: rgba(255,255,255,0.12);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255,255,255,0.2);
+    box-shadow: 0px 8px 25px rgba(0,0,0,0.2);
+  ">
+    <h2 style="margin-top:0; color:#d2e7ff;">📬 Contact Me</h2>
+    <p style="color:#e3f2fd;">
+      📧 Email: <strong>jhaharshit34@gmail.com</strong><br>
+      🐙 GitHub: <strong>[Insert GitHub Link]</strong>
+    </p>
+  </div>
+</div>
 
-## 📬 Contact Me
+<br>
 
-- 📧 **Email:** jhaharshit34@gmail.com  
-- 🔗 **GitHub:** [Your GitHub Profile Link]([your-github-link-here](https://github.com/Harshit-Jha28))
+<!-- Call to Action -->
+<h2 align="center">✨ Let's Collaborate!</h2>
+<p align="center" style="color:#bde0fe;">
+I’m always open to AI/ML discussions, data projects, and cool collaborations.  
+Feel free to reach out!
+</p>
 
-Feel free to connect for collaboration on **Machine Learning**, **Data Science**, or any exciting tech projects!
+<br>
 
----
+<!-- Optional Animated Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent" width="450">
+</p>
 
-## ✨ Call to Action
-
-👉 I’m always excited to discuss new ideas, contribute to projects, or collaborate on innovative ML/AI research.  
-If you’re working on something interesting — let’s connect!
-
----
-
-
-
-
-⭐ *If you like my work, feel free to star my repositories!*
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent" width="450">
+</p>
 
