@@ -1,8 +1,4 @@
-### ✒️ Who I Am?
-<p align="center">
-A passionate Computer Science Graduate exploring the world of Machine Learning, Data Science, and AI.  
-I enjoy building intelligent systems, analyzing data, and turning ideas into real-world solutions.
-</p>
+<h3 align="center">✒️ Who I Am?</h3>
 
 <h1 align="center">Hi, I'm Harshit Jha 👋</h1>
 
@@ -10,7 +6,6 @@ I enjoy building intelligent systems, analyzing data, and turning ideas into rea
   <strong>Computer Science Graduate | Machine Learning & Data Science Enthusiast</strong>
 </p>
 
----
 
 ## 🌟 About Me
 
